@@ -1,9 +1,0 @@
-password
-abc123
-charley
-letmein
-holahola
-contraseña
-pass
-mejorcontraseña
-1234567
