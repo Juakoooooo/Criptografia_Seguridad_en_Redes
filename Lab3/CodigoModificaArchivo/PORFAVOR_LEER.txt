@@ -1,0 +1,6 @@
+El archivo utilizado para modificar junto con el modificado se 
+encuentran en un link que se dirige a Google Drive, debido a que 
+GitHub no permite subir archivos que pesen más de 25 MB 
+(aunque se compriman siguen pesando más).
+
+Link Google Drive: 'https://drive.google.com/drive/folders/1gvQvhEJtCUfi8QqEBKpjCQmtzQ8Fy0WD'
