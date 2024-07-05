@@ -1,0 +1,24 @@
+-- Este es para C1
+deb http://old-releases.ubuntu.com/ubuntu/ yakkety main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ yakkety-updates main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ yakkety-security main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ yakkety-backports main restricted universe multiverse
+
+-- Este es para C2
+deb http://old-releases.ubuntu.com/ubuntu/ cosmic main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ cosmic-updates main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ cosmic-security main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ cosmic-backports main restricted universe multiverse
+
+--Este es para C3
+deb http://old-releases.ubuntu.com/ubuntu/ groovy main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ groovy-updates main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ groovy-security main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ groovy-backports main restricted universe multiverse
+
+
+--Este es para C4
+deb http://old-releases.ubuntu.com/ubuntu/ kinetic main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ kinetic-updates main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ kinetic-security main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ kinetic-backports main restricted universe multiverse
